@@ -30,7 +30,7 @@ var theCard = "",
             GENERATE_CARD: "Karte erzeugen",
             PRINT_CARD: "Karte drucken",
             NO_CRYPTO_WARNING: "Ihr Browser unterstützt keine kryptografisch starken Zufallszahlen.",
-            EXPLANATIONS_TEXT: "Die Anwendung erzeugt eine kreditkartengroße Passwortkarte nach den Ideen des Artikels 'Passwort aus Papier - Kennwörter mit Zettel und Stift verwalten' in der c't 18/2014, S. 92. Weitere Erläuterungen finden sich in der README.md-Datei.",
+            EXPLANATIONS_TEXT: "Die Anwendung erzeugt eine kreditkartengroße Passwortkarte nach den Ideen des Artikels 'Passwort aus Papier - Kennwörter mit Zettel und Stift verwalten' in der c't 18/2014, S. 92 (https://www.heise.de/ct/ausgabe/2014-18-Werkzeuge-gegen-das-Passwort-Chaos-2283736.html). Weitere Erläuterungen finden sich in der README.md-Datei.",
             EXPLANATION: "Erläuterung"
         },
         en: {
@@ -43,7 +43,7 @@ var theCard = "",
             GENERATE_CARD: "Generate card",
             PRINT_CARD: "Print card",
             NO_CRYPTO_WARNING: "Your browser doesn't support cryptographically strong random numbers.",
-            EXPLANATIONS_TEXT: "This application generates a credit card sized card for passwords. The idea is from an article in the german magazine c't, issue 18/2014, p. 92. Some further explanations could be found in README.md",
+            EXPLANATIONS_TEXT: "This application generates a credit card sized card for passwords. The idea is from an article in the german magazine c't, issue 18/2014, p. 92. (https://www.heise.de/ct/ausgabe/2014-18-Werkzeuge-gegen-das-Passwort-Chaos-2283736.html) Some further explanations could be found in README.md",
             EXPLANATION: "Explanation"
         }
     };
