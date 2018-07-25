@@ -16,7 +16,7 @@ var theCard = "",
      * http://foxable.net/2014/04/client-seitige-mehrsprachigkeit-mit-jquery/
      *
      */
-    lang = "de", // current language
+    lang = "en", // current language
 
     // translation data
     langData = {
