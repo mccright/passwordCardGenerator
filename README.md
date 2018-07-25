@@ -12,7 +12,7 @@ This application is a JavaScript standalone application to generate password car
 
 The cards print exactly in credit card size and can be used to generate passwords. The advantage: the passwords are strictly separated from your electronic devices.
 
-The idea is from the german magazine *c't*, issue 18/2014, p. 92.
+The idea is from the german magazine *c't*, issue 18/2014, p. 92. [https://www.heise.de/ct/ausgabe/2014-18-Werkzeuge-gegen-das-Passwort-Chaos-2283736.html](https://www.heise.de/ct/ausgabe/2014-18-Werkzeuge-gegen-das-Passwort-Chaos-2283736.html)
 
 The generated cards look like this one:
 
